@@ -2,7 +2,7 @@
 
 ### Power BI | Data Analytics | Business Intelligence
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
 ## 📌 Overview
 
@@ -68,25 +68,25 @@ Key fields include:
 
 Provides a high-level view of unicorn growth, valuation, funding, country distribution, and industry distribution.
 
-![Executive Overview](images/dashboard-overview.png)
+![Executive Overview](dashboard-overview.png)
 
 ### 2. Geography Analysis
 
 Analyzes country and city concentration and compares unicorn count with average valuation.
 
-![Geography Analysis](images/geography-analysis.png)
+![Geography Analysis](geography-analysis.png)
 
 ### 3. Industry Performance
 
 Compares industries by unicorn count, average valuation, funding, and funding efficiency.
 
-![Industry Performance](images/industry-analysis.png)
+![Industry Performance](industry-analysis.png)
 
 ### 4. Key Insights
 
 Summarizes the major observations from the analysis and translates them into business considerations.
 
-![Key Insights](images/key-insights.png)
+![Key Insights](key-insights.png)
 
 ---
 
